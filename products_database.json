@@ -5,7 +5,7 @@
    "sapCode": "R000132",
    "barcode": 7861039931818,
    "name": "Bebida de Yogurt",
-   "flavour": "DURAZNO",
+   "flavour": "Durazno",
    "packaging": "900g",
    "ean14": 12,
    "imageUrl": ""
@@ -16,7 +16,7 @@
    "sapCode": "R000131",
    "barcode": 7861039931801,
    "name": "Bebida de Yogurt",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "900g",
    "ean14": 12,
    "imageUrl": ""
@@ -27,7 +27,7 @@
    "sapCode": "R000130",
    "barcode": 7861039931795,
    "name": "Bebida de Yogurt",
-   "flavour": "MORA",
+   "flavour": "Mora",
    "packaging": "900g",
    "ean14": 12,
    "imageUrl": ""
@@ -38,7 +38,7 @@
    "sapCode": "R000138",
    "barcode": 7861039932303,
    "name": "Bebida de Yogurt",
-   "flavour": "DURAZNO",
+   "flavour": "Durazno",
    "packaging": "500g",
    "ean14": 12,
    "imageUrl": ""
@@ -49,7 +49,7 @@
    "sapCode": "R000137",
    "barcode": 7861039932310,
    "name": "Bebida de Yogurt",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "500g",
    "ean14": 12,
    "imageUrl": ""
@@ -60,7 +60,7 @@
    "sapCode": "R000136",
    "barcode": 7861039932297,
    "name": "Bebida de Yogurt",
-   "flavour": "MORA",
+   "flavour": "Mora",
    "packaging": "500g",
    "ean14": 12,
    "imageUrl": ""
@@ -71,7 +71,7 @@
    "sapCode": "R000128",
    "barcode": 7861039932044,
    "name": "Bebida de Yogurt",
-   "flavour": "DURAZNO",
+   "flavour": "Durazno",
    "packaging": "90g",
    "ean14": 30,
    "imageUrl": ""
@@ -82,7 +82,7 @@
    "sapCode": "R000127",
    "barcode": 7861039932037,
    "name": "Bebida de Yogurt",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "90g",
    "ean14": 30,
    "imageUrl": ""
@@ -93,7 +93,7 @@
    "sapCode": "R00126",
    "barcode": 7861039932020,
    "name": "Bebida de Yogurt",
-   "flavour": "MORA",
+   "flavour": "Mora",
    "packaging": "90g",
    "ean14": 30,
    "imageUrl": ""
@@ -104,7 +104,7 @@
    "sapCode": "R00129",
    "barcode": null,
    "name": "Bebida de Yogurt",
-   "flavour": "YOGUFRESH FUNDA",
+   "flavour": "Yogufresh Funda",
    "packaging": "PAQ 30U",
    "ean14": 6,
    "imageUrl": ""
@@ -115,7 +115,7 @@
    "sapCode": "R000141",
    "barcode": 7861039932365,
    "name": "Bebida de Yogurt",
-   "flavour": "DURAZNO",
+   "flavour": "Durazno",
    "packaging": "980g",
    "ean14": 6,
    "imageUrl": ""
@@ -126,7 +126,7 @@
    "sapCode": "R000140",
    "barcode": 7861039932372,
    "name": "Bebida de Yogurt",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "980g",
    "ean14": 6,
    "imageUrl": ""
@@ -137,7 +137,7 @@
    "sapCode": "R000139",
    "barcode": 7861039932389,
    "name": "Bebida de Yogurt",
-   "flavour": "MORA",
+   "flavour": "Mora",
    "packaging": "980g",
    "ean14": 6,
    "imageUrl": ""
@@ -148,7 +148,7 @@
    "sapCode": "R000144",
    "barcode": 7861039932365,
    "name": "Bebida de Yogurt",
-   "flavour": "DURAZNO",
+   "flavour": "Durazno",
    "packaging": "3900g",
    "ean14": 4,
    "imageUrl": ""
@@ -159,7 +159,7 @@
    "sapCode": "R000143",
    "barcode": 7861039932341,
    "name": "Bebida de Yogurt",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "3900g",
    "ean14": 4,
    "imageUrl": ""
@@ -170,7 +170,7 @@
    "sapCode": "R000142",
    "barcode": 7861039932358,
    "name": "Bebida de Yogurt",
-   "flavour": "MORA",
+   "flavour": "Mora",
    "packaging": "3900g",
    "ean14": 4,
    "imageUrl": ""
@@ -236,7 +236,7 @@
    "sapCode": "S000500",
    "barcode": 7861039932457,
    "name": "Jalea",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "1100g",
    "ean14": 6,
    "imageUrl": ""
@@ -247,7 +247,7 @@
    "sapCode": "S000502",
    "barcode": 7861039932433,
    "name": "Jalea",
-   "flavour": "NEUTRAL",
+   "flavour": "Neutral",
    "packaging": "1100g",
    "ean14": 6,
    "imageUrl": ""
@@ -258,7 +258,7 @@
    "sapCode": "S000501",
    "barcode": null,
    "name": "Jalea",
-   "flavour": "PIÑA",
+   "flavour": "Piña",
    "packaging": "1100g",
    "ean14": 6,
    "imageUrl": ""
@@ -302,7 +302,7 @@
    "sapCode": "S000212",
    "barcode": 7861039932181,
    "name": "Postre Gelificado",
-   "flavour": "MANZANA",
+   "flavour": "Manzana",
    "packaging": "140g",
    "ean14": 16,
    "imageUrl": ""
@@ -313,7 +313,7 @@
    "sapCode": "S000211",
    "barcode": 7861039932167,
    "name": "Postre Gelificado",
-   "flavour": "CEREZA",
+   "flavour": "Cereza",
    "packaging": "140g",
    "ean14": 16,
    "imageUrl": ""
@@ -324,7 +324,7 @@
    "sapCode": "S000213",
    "barcode": 7861039932174,
    "name": "Postre Gelificado",
-   "flavour": "UVA",
+   "flavour": "Uva",
    "packaging": "140g",
    "ean14": 16,
    "imageUrl": ""
@@ -335,7 +335,7 @@
    "sapCode": "S000210",
    "barcode": 7861039932150,
    "name": "Postre Gelificado",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "140g",
    "ean14": 16,
    "imageUrl": ""
@@ -357,9 +357,9 @@
    "sapCode": "S000600",
    "barcode": 7861039932617,
    "name": "Leche Semidescremada",
-   "flavour": "CHOCOLATE",
-   "packaging": "200ml",
-   "ean14": 48,
+   "flavour": "Chocolate",
+   "packaging": "400ml",
+   "ean14": 12,
    "imageUrl": ""
  },
  {
@@ -368,7 +368,7 @@
    "sapCode": "S000601",
    "barcode": 7861039932624,
    "name": "Leche Semidescremada",
-   "flavour": "FRESA",
+   "flavour": "Fresa",
    "packaging": "200ml",
    "ean14": 48,
    "imageUrl": ""
@@ -379,8 +379,8 @@
    "sapCode": "S000602",
    "barcode": 7861039932631,
    "name": "Leche Semidescremada",
-   "flavour": "VAINILLA",
-   "packaging": "200ml",
+   "flavour": "Vainilla",
+   "packaging": "400ml",
    "ean14": 48,
    "imageUrl": ""
  }
